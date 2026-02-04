@@ -1,13 +1,14 @@
 {
-  "name": "FoxBin-gen-bot",
-  "version": "1.0.0",
-  "description": "Professional VCC Generator Telegram Bot",
+  "name": "FoxBin-pro-bot",
+  "version": "1.1.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "telegraf": "^4.12.2",
+    "axios": "^1.6.0",
     "@faker-js/faker": "^8.0.2"
   }
 }
+vcc-pro-bot
